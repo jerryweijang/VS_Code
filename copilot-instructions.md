@@ -61,6 +61,8 @@
 
 ## Charts and Documentation
 
+### Update the Readme.md based on the current project structure, give me an exec summary, API Docs and workflow diagram using MermaidJS
+
 ### Mermaid Chart Guidelines
 - **Chart Types Usage**:
   - **Flowcharts**: Decision paths and process flows
@@ -106,5 +108,7 @@
 - **Cohesive Reorganization**: Reorganize code by responsibilities
 - **Parameter Simplification**: Combine multiple parameters into objects
 - **Responsibility Separation**: Split components with multiple responsibilities
+
+## Make sure this project is testable
 
 *Principles serve the product and team, not vice versa. Technical choices should be based on solving real problems, not chasing trends.*
